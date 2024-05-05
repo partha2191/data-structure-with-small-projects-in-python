@@ -1,0 +1,2 @@
+IT,partha,600
+Computer,Partha,800
